@@ -1,0 +1,46 @@
+.password-item {
+  list-style-type: none;
+  background-color: transparent;
+  border-radius: 6px;
+  border: 1px solid #c3caea;
+  display: flex;
+  align-items: center;
+  width: 30%;
+  padding: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.intial-container {
+  background-color: #f59e0b;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 13px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 40px;
+  border-radius: 30px;
+}
+.details-container {
+  margin-left: 10px;
+}
+.details {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 13px;
+}
+.delete-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  margin-left: auto;
+}
+.stars {
+  width: 60%;
+  height: 20px;
+}
